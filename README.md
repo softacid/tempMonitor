@@ -3,16 +3,16 @@ NodeMCU temperature monitor for beer fermentors
 
 # NodeMcu 
 - open source IoT platform based on Esp8266 
--default firmware uses the Lua scripting language but you could flash it and use javascript if need it 
--really cheap programmable microcontroller
--fun to play with
--lot of sendors available (all the arduino sensors can be attached to this)
+- default firmware uses the Lua scripting language but you could flash it and use javascript if need it 
+- really cheap programmable microcontroller
+- fun to play with
+- lot of sendors available (all the arduino sensors can be attached to this)
 
-real channel
+Fermentor1 channel
 https://thingspeak.com/channels/229922
 
 
-demo channel
+Demo channel
 https://thingspeak.com/channels/287687
 
 

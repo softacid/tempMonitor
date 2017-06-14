@@ -1,7 +1,6 @@
 # TempMonitor
 NodeMCU temperature monitor for beer fermentors
 
-# NodeMcu 
 - open source IoT platform based on Esp8266 
 - default firmware uses the Lua scripting language but you could flash it and use javascript if need it 
 - really cheap programmable microcontroller
@@ -26,5 +25,5 @@ i plan to attach 2 relays :
 
 
 
-http://www.instructables.com/ search for nodeMcu or esp8266
-37 sensors kit - https://youtu.be/Vn9XsLh13qw?list=PLwnMi_b_qu7vx6f608858Q0LxaSahfXau
+- http://www.instructables.com/ search for nodeMcu or esp8266
+- 37 sensors kit - https://youtu.be/Vn9XsLh13qw?list=PLwnMi_b_qu7vx6f608858Q0LxaSahfXau

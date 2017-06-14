@@ -15,7 +15,7 @@ Demo channel
 https://thingspeak.com/channels/287687
 
 
-Whats next:
+##### Whats next:
 
 
 i plan to attach 2 relays :
@@ -23,7 +23,22 @@ i plan to attach 2 relays :
 2. more complicated when temp is too high relay is on that power a water pump that start circulating ice cold water + glycol around the fermentor in order to lower the temp. First ideea was to use a peltier element for this.
 
 
+##### More Info
 
-
-- http://www.instructables.com/ search for nodeMcu or esp8266
+- http://www.instructables.com/ search for nodeMcu or esp8266 lot of projects
 - 37 sensors kit - https://youtu.be/Vn9XsLh13qw?list=PLwnMi_b_qu7vx6f608858Q0LxaSahfXau
+
+
+##### ESP8266 
+- 32-bit RISC CPU: Tensilica Xtensa L106 running at 80 MHz*
+- 64 KiB of instruction RAM, 96 KiB of data RAM
+- External QSPI flash: 512 KiB to 4 MiB* (up to 16 MiB is supported)
+- IEEE 802.11 b/g/n Wi-Fi
+- Integrated TR switch, balun, LNA, power amplifier and matching network
+- WEP or WPA/WPA2 authentication, or open networks
+- 16 GPIO pins
+- SPI
+- I²C
+- I²S interfaces with DMA (sharing pins with GPIO)
+- UART on dedicated pins, plus a transmit-only UART can be enabled on GPIO2
+- 10-bit ADC
